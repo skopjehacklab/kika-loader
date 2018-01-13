@@ -1,6 +1,6 @@
 <svg style="height: 20%;" version="1.1"
   xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 840 840.4" xml:space="preserve">
-  <style>.s0 { fill: none; stroke-width: 80; stroke: #000; stroke-dasharray: 0; stroke-dashoffset: 0 } .s1 { fill: #FC3 } .s2 { fill: #9CC } .s3 { fill: #9C6 }</style>
+  <style>.s0 { fill: none; stroke-width: 80; stroke: #000 } .s1 { fill: #FC3 } .s2 { fill: #9CC } .s3 { fill: #9C6 }</style>
   <g class="kika_loader">
     <line x1="220.4" y1="410.5" x2="610.4" y2="410.5" class="s0" />
     <line x1="220.4" y1="410.5" x2="610.4" y2="410.5" class="s0" />
