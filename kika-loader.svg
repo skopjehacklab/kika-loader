@@ -2,9 +2,7 @@
   xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 840 840.4" xml:space="preserve">
   <style>.s0 { fill: none; stroke-width: 80; stroke: #000; stroke-dasharray: 0; stroke-dashoffset: 0 } .s1 { fill: #FC3 } .s2 { fill: #9CC } .s3 { fill: #9C6 }</style>
   <g class="kika_loader">
-    <line x1="220.4" y1="410.5" x2="610.4" y2="410.5" class="s0">
-      <animate id="line_middle_horizontal" attributeType="CSS" attributeName="stroke-offset" dur="6s" values="0;100;1000" keyTimes="0;0.5;1" repeatCount="indefinite" />
-    </line>
+    <line x1="220.4" y1="410.5" x2="610.4" y2="410.5" class="s0" />
     <line x1="220.4" y1="410.5" x2="610.4" y2="410.5" class="s0" />
     <line x1="220.4" y1="420.5" x2="610.4" y2="420.5" class="s0" />
     <line x1="420.4" y1="215.9" x2="420.4" y2="620.5" class="s0" />
