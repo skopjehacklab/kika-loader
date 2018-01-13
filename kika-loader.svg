@@ -3,7 +3,6 @@
   <style>.s0 { fill: none; stroke-width: 80; stroke: #000 } .s1 { fill: #FC3 } .s2 { fill: #9CC } .s3 { fill: #9C6 }</style>
   <g class="kika_loader">
     <line x1="220.4" y1="410.5" x2="610.4" y2="410.5" class="s0" />
-    <line x1="220.4" y1="410.5" x2="610.4" y2="410.5" class="s0" />
     <line x1="220.4" y1="420.5" x2="610.4" y2="420.5" class="s0" />
     <line x1="420.4" y1="215.9" x2="420.4" y2="620.5" class="s0" />
     <line x1="210.4" y1="210.5" x2="630.4" y2="630.5" class="s0" />
