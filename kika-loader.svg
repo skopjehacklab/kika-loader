@@ -1,0 +1,40 @@
+<svg style="height: 20%;" version="1.1"
+  xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 840 840.4" xml:space="preserve">
+  <style>.s0 { fill: none; stroke-width: 80; stroke: #000; stroke-dasharray: 0; stroke-dashoffset: 0 } .s1 { fill: #FC3 } .s2 { fill: #9CC } .s3 { fill: #9C6 }</style>
+  <g class="kika_loader">
+    <line x1="220.4" y1="410.5" x2="610.4" y2="410.5" class="s0">
+      <animate id="line_middle_horizontal" attributeType="CSS" attributeName="stroke-offset" dur="6s" values="0;100;1000" keyTimes="0;0.5;1" repeatCount="indefinite" />
+    </line>
+    <line x1="220.4" y1="410.5" x2="610.4" y2="410.5" class="s0" />
+    <line x1="220.4" y1="420.5" x2="610.4" y2="420.5" class="s0" />
+    <line x1="420.4" y1="215.9" x2="420.4" y2="620.5" class="s0" />
+    <line x1="210.4" y1="210.5" x2="630.4" y2="630.5" class="s0" />
+    <path d="M160.4 680.5" class="s0" />
+    <line x1="630.4" y1="210.5" x2="210.4" y2="630.5" class="s0" />
+    <path d="M160.4 120.7c21.5 0 39 17.5 39 39s-17.5 39-39 39 -39-17.5-39-39S138.9 120.7 160.4 120.7M160.4 59.7c-55.2 0-100 44.8-100 100s44.8 100 100 100 100-44.8 100-100S215.6 59.7 160.4 59.7L160.4 59.7z" fill="#FC3">
+      <animate id="top_left" attributeType="CSS" attributeName="fill" dur="1s" values="#fc3;#000;#fc3;#fc3" keyTimes="0;0.1;0.2;1" repeatCount="indefinite" />
+    </path>
+    <path d="M420.4 120.7c21.5 0 39 17.5 39 39s-17.5 39-39 39 -39-17.5-39-39S398.9 120.7 420.4 120.7M420.4 59.7c-55.2 0-100 44.8-100 100s44.8 100 100 100 100-44.8 100-100S475.6 59.7 420.4 59.7L420.4 59.7z" fill="#9CC">
+      <animate id="top_middle" attributeType="CSS" attributeName="fill" dur="1s" values="#9CC;#000;#9CC;#9CC" keyTimes="0;0.1;0.2;1" repeatCount="indefinite" begin="top_left.begin+0.125s" />
+    </path>
+    <path d="M680.4 120.7c21.5 0 39 17.5 39 39s-17.5 39-39 39 -39-17.5-39-39S658.9 120.7 680.4 120.7M680.4 59.7c-55.2 0-100 44.8-100 100s44.8 100 100 100 100-44.8 100-100S735.6 59.7 680.4 59.7L680.4 59.7z" fill="#FC3">
+      <animate id="top_right" attributeType="CSS" attributeName="fill" dur="1s" values="#fc3;#000;#fc3;#fc3" keyTimes="0;0.1;0.2;1" repeatCount="indefinite" begin="top_left.begin+0.250s" />
+    </path>
+    <path d="M680.3 381.5c21.5 0 39 17.5 39 39s-17.5 39-39 39 -39-17.5-39-39S658.8 381.5 680.3 381.5M680.3 320.5c-55.2 0-100 44.8-100 100s44.8 100 100 100 100-44.8 100-100S735.5 320.5 680.3 320.5L680.3 320.5z" fill="#9C6">
+      <animate id="middle_right" attributeType="CSS" attributeName="fill" dur="1s" values="#9C6;#000;#9C6;#9C6" keyTimes="0;0.1;0.2;1" repeatCount="indefinite" begin="top_left.begin+0.375s" />
+    </path>
+    <path d="M680.4 641.5c21.5 0 39 17.5 39 39 0 21.5-17.5 39-39 39s-39-17.5-39-39C641.4 659 658.9 641.5 680.4 641.5M680.4 580.5c-55.2 0-100 44.8-100 100s44.8 100 100 100 100-44.8 100-100S735.6 580.5 680.4 580.5L680.4 580.5z" fill="#FC3">
+      <animate id="bottom_right" attributeType="CSS" attributeName="fill" dur="1s" values="#fc3;#000;#fc3;#fc3" keyTimes="0;0.1;0.2;1" repeatCount="indefinite" begin="top_left.begin+0.5s" />
+    </path>
+    <path d="M420.4 641.5c21.5 0 39 17.5 39 39 0 21.5-17.5 39-39 39s-39-17.5-39-39C381.4 659 398.9 641.5 420.4 641.5M420.4 580.5c-55.2 0-100 44.8-100 100s44.8 100 100 100 100-44.8 100-100S475.6 580.5 420.4 580.5L420.4 580.5z" fill="#9CC">
+      <animate id="bottom_middle" attributeType="CSS" attributeName="fill" dur="1s" values="#9CC;#000;#9CC;#9CC" keyTimes="0;0.1;0.2;1" repeatCount="indefinite" begin="top_left.begin+0.625s" />
+    </path>
+    <path d="M160.4 641.5c21.5 0 39 17.5 39 39 0 21.5-17.5 39-39 39s-39-17.5-39-39C121.4 659 138.9 641.5 160.4 641.5M160.4 580.5c-55.2 0-100 44.8-100 100s44.8 100 100 100 100-44.8 100-100S215.6 580.5 160.4 580.5L160.4 580.5z" fill="#FC3">
+      <animate id="bottom_left" attributeType="CSS" attributeName="fill" dur="1s" values="#fc3;#000;#fc3;#fc3" keyTimes="0;0.1;0.2;1" repeatCount="indefinite" begin="top_left.begin+0.750s" />
+    </path>
+    <path d="M160.4 381.5c21.5 0 39 17.5 39 39s-17.5 39-39 39 -39-17.5-39-39S138.9 381.5 160.4 381.5M160.4 320.5c-55.2 0-100 44.8-100 100s44.8 100 100 100 100-44.8 100-100S215.6 320.5 160.4 320.5L160.4 320.5z" fill="#9C6">
+      <animate id="middle_left" attributeType="CSS" attributeName="fill" dur="1s" values="#9C6;#000;#9C6;#9C6" keyTimes="0;0.1;0.2;1" repeatCount="indefinite" begin="top_left.begin+0.875s" />
+    </path>
+    <circle cx="420.4" cy="420.5" r="40" fill="#FFF" />
+  </g>
+</svg>
